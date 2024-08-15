@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=laptop_mac_24dp_e8eaed_fill0_wght400_grad0_opsz24" alt="laptop" />
+<img src="https://custom-icon-badges.demolab.com/badge/web-developer-green.svg?logo=laptop_mac_24dp_e8eaed_fill0_wght400_grad0_opsz24" alt="laptop" />
 
 <!--
 **markuptitan/markuptitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
