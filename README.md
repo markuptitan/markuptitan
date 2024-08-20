@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=markuptitan&theme=javascript&card_width=500" alt="Streak Stats" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=markuptitan&theme=javascript-dark&card_width=500" alt="Streak Stats" width="400">
 </p>
 
 ## Social Media
