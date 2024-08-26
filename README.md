@@ -27,15 +27,15 @@
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
 </p>
 
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=markuptitan&show_icons=true&theme=dark&card_width=500" alt="Samson's GitHub stats" width="400">
 </p>
 
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuptitan&layout=compact&theme=dark&card_width=500" alt="Top Languages" width="400">
 </p>
 
-<p align="center">
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=markuptitan&theme=javascript-dark&card_width=500" alt="Streak Stats" width="400">
 </p>
 
