@@ -1,31 +1,29 @@
 # Hi there, I'm Samson Siyabonga Lukhele 👋
 
 ## 🚀 About Me
-I am **Samson Siyabonga Lukhele**, a passionate **Full Stack Web Developer** and an aspiring **DevOps Engineer**. My passion lies in building dynamic and visually appealing web applications that solve real-world problems. 
+Hey! I'm **Samson Siyabonga Lukhele**, an aspiring **web developer** with a passion for creating sleek, user-friendly, and efficient web applications. I thrive on turning ideas into functional and visually captivating products. Whether it's coding up a storm or diving into new tech trends, I'm always looking for ways to grow and push the boundaries of what’s possible.
 
-One of my highlight projects is a **real-time weather app** that showcases my expertise in **JavaScript** and other frontend technologies. Feel free to check out my portfolio to explore this and other exciting projects that demonstrate my love for creating innovative solutions. Let's connect and build something amazing together! 🌟
+One of my favorite projects is a **real-time weather app**—a perfect blend of my JavaScript expertise and the thrill of solving real-world problems with technology. Want to check it out? Head over to my portfolio, and let’s connect! Together, we can create something awesome. 🌟
 
 ### 🔭 What I'm currently working on:
-- 🛠 Building dynamic web apps using **TypeScript** and **Node.js**
-- 🐳 Experimenting with **Docker** for containerized applications
-- 🎯 Enhancing my knowledge in **DevOps** tools and best practices
+- 🛠 Crafting dynamic web applications using **JavaScript** and **Node.js**
+- 🎯 Building up my skillset with a strong focus on modern web development tools and best practices
 
 ---
 
 ## 🛠 My Tech Stack
 
-### 🔧 Languages & Frameworks
+### 🔧 Languages & Frameworks I Love:
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 </p>
 
-### 🛠 Tools & Technologies
+### 🛠 Tools & Technologies I Use:
 <p align="center">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -59,6 +57,6 @@ One of my highlight projects is a **real-time weather app** that showcases my ex
 ---
 
 ## ⚡ Fun Facts
-- 🏀 I love playing basketball in my free time.
-- 💡 I’m always exploring new web technologies.
-- 🎯 Fun Fact: My nickname, "MarkupTitan," reflects my love for HTML and the web development ecosystem.
+- 🏀 Basketball is my go-to for a good workout and fun.
+- 💡 I’m constantly learning and experimenting with new web technologies.
+- 🎯 Fun Fact: My nickname, "MarkupTitan," represents my obsession with **HTML** and all things web development.
