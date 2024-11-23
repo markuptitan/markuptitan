@@ -1,11 +1,13 @@
-# Hi there, I'm Samson Siyabonga Lukhele 👋
+# Hi there, I'm Sason Siyabonga Lukhele 👋
 
 ## 🚀 About Me
+
 Hey! I'm **Samson Siyabonga Lukhele**, an aspiring **web developer** with a passion for creating sleek, user-friendly, and efficient web applications. I thrive on turning ideas into functional and visually captivating products. Whether it's coding up a storm or diving into new tech trends, I'm always looking for ways to grow and push the boundaries of what’s possible.
 
 One of my favorite projects is a **real-time weather app**—a perfect blend of my JavaScript expertise and the thrill of solving real-world problems with technology. Want to check it out? Head over to my portfolio, and let’s connect! Together, we can create something awesome. 🌟
 
 ### 🔭 What I'm currently working on:
+
 - 🛠 Crafting dynamic web applications using **JavaScript** and **Node.js**
 - 🎯 Building up my skillset with a strong focus on modern web development tools and best practices
 
@@ -14,6 +16,7 @@ One of my favorite projects is a **real-time weather app**—a perfect blend of 
 ## 🛠 My Tech Stack
 
 ### 🔧 Languages & Frameworks I Love:
+
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -24,8 +27,8 @@ One of my favorite projects is a **real-time weather app**—a perfect blend of 
     <img src="https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-
 ### 🛠 Tools & Technologies I Use:
+
 <p align="center">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -59,6 +62,7 @@ One of my favorite projects is a **real-time weather app**—a perfect blend of 
 ---
 
 ## ⚡ Fun Facts
+
 - 🏀 Basketball is my go-to for a good workout and fun.
 - 💡 I’m constantly learning and experimenting with new web technologies.
 - 🎯 Fun Fact: My nickname, "MarkupTitan," represents my obsession with **HTML** and all things web development.
