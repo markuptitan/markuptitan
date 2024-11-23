@@ -2,16 +2,20 @@
 
 ## 🚀 About Me
 
-Hey! I'm **Samson Siyabonga Lukhele**, an aspiring **web developer** with a passion for creating sleek, user-friendly, and efficient web applications. I thrive on turning ideas into functional and visually captivating products. Whether it's coding up a storm or diving into new tech trends, I'm always looking for ways to grow and push the boundaries of what’s possible.
+Hey! I'm **Samson Siyabonga Lukhele**, an aspiring **web developer** passionate about creating sleek, user-friendly, and efficient web applications. I thrive on transforming ideas into functional and visually captivating products. Whether it's coding up a storm, exploring data structures, or working with cutting-edge technologies, I’m always seeking new opportunities to grow and push the boundaries of web development.
 
-One of my favorite projects is a **real-time weather app**—a perfect blend of my JavaScript expertise and the thrill of solving real-world problems with technology. Want to check it out? Head over to my portfolio, and let’s connect! Together, we can create something awesome. 🌟
+Some of my favorite projects include:
 
-### 🔭 What I'm currently working on:
+- A **React Counter App**, a great introduction to React, showcasing clean design and dynamic functionality.
+- A **real-time weather app**, where I combined JavaScript expertise with solving real-world challenges.
 
-- 🛠 Crafting dynamic web applications using **JavaScript** and **Node.js**
-- 🎯 Building up my skillset with a strong focus on modern web development tools and best practices
+Want to check them out? Visit my portfolio and let’s connect to create something awesome together! 🌟
 
----
+## 🔭 What I'm Currently Working On
+
+- 🛠 Mastering **Node.js** and **TypeScript** to strengthen my backend development skills
+- 🎯 Exploring **data structures** and enhancing projects with **localStorage** for a better user experience
+- 🚧 Crafting dynamic web applications using modern tools, frameworks, and best practices
 
 ## 🛠 My Tech Stack
 
