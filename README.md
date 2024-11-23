@@ -1,4 +1,4 @@
-# Hi there, I'm Sason Siyabonga Lukhele 👋
+# Hi there, I'm Samson Siyabonga Lukhele 👋
 
 ## 🚀 About Me
 
