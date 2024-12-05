@@ -29,7 +29,9 @@ Want to check them out? Visit my portfolio and let’s connect to create somethi
     <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
     <img src="https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </p>
+
 
 ### 🛠 Tools & Technologies I Use:
 
