@@ -2,36 +2,34 @@
 
 ## 🚀 About Me
 
-Hey! I'm **Samson Siyabonga Lukhele**, an aspiring **web developer** passionate about creating sleek, user-friendly, and efficient web applications. I thrive on transforming ideas into functional and visually captivating products. Whether it's coding up a storm, exploring data structures, or working with cutting-edge technologies, I’m always seeking new opportunities to grow and push the boundaries of web development.
+Hello! I'm **Samson Siyabonga Lukhele**, an aspiring **web developer** with a passion for crafting sleek, user-centric web applications. I thrive on transforming innovative ideas into functional and visually appealing products. Whether it's coding complex features, exploring data structures, or diving into modern technologies, I’m always eager to expand my skill set and push the boundaries of web development.
 
 Some of my favorite projects include:
 
-- A **React Counter App**, a great introduction to React, showcasing clean design and dynamic functionality.
-- A **real-time weather app**, where I combined JavaScript expertise with solving real-world challenges.
+- A **React Counter App**, serving as a solid introduction to React, showcasing clean design and dynamic functionality.
+- A **real-time weather app**, where I effectively utilized JavaScript to address real-world challenges.
 
-Want to check them out? Visit my portfolio and let’s connect to create something awesome together! 🌟
+Feel free to explore my portfolio and connect with me to collaborate on exciting projects! 🌟
 
 ## 🔭 What I'm Currently Working On
 
-- 🛠 Mastering **Node.js** and **TypeScript** to strengthen my backend development skills
-- 🎯 Exploring **data structures** and enhancing projects with **localStorage** for a better user experience
-- 🚧 Crafting dynamic web applications using modern tools, frameworks, and best practices
+- 🛠 Mastering **Node.js** and **TypeScript** to enhance my backend development skills
+- 🎯 Delving into **data structures** and optimizing user experiences using **localStorage**
+- 🚧 Developing dynamic web applications with **Next.js**, **Tailwind CSS**, and **MongoDB**, leveraging modern tools and best practices
 
 ## 🛠 My Tech Stack
 
 ### 🔧 Languages & Frameworks I Love:
 
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
     <img src="https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/MongoDB-%2338E7A1.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
-
 
 ### 🛠 Tools & Technologies I Use:
 
@@ -69,6 +67,6 @@ Want to check them out? Visit my portfolio and let’s connect to create somethi
 
 ## ⚡ Fun Facts
 
-- 🏀 Basketball is my go-to for a good workout and fun.
+- 🏀 Basketball is my go-to activity for both exercise and enjoyment.
 - 💡 I’m constantly learning and experimenting with new web technologies.
-- 🎯 Fun Fact: My nickname, "MarkupTitan," represents my obsession with **HTML** and all things web development.
+- 🎯 Fun Fact: My nickname, "MarkupTitan," reflects my enthusiasm for **HTML** and the broader world of web development.
