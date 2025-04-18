@@ -1,6 +1,6 @@
-const fs = require("fs");
-const path = require("path");
-const fetch = require("node-fetch");
+import fs from "fs";
+import path from "path";
+import fetch from "node-fetch";
 
 const GITHUB_USER = "MarkupTitan";
 const PERSONAL_TOKEN = process.env.PERSONAL_TOKEN;
@@ -67,7 +67,7 @@ ${allCommits
 ${table}
 `;
 
-  const readmePath = path.resolve("README.md");
+  const readmePath = path.resolve("../README.md");
   const readme = fs.readFileSync(readmePath, "utf-8");
 
   const newReadme = readme.replace(
