@@ -61,6 +61,19 @@ To become a high-impact **Full Stack Developer**, building scalable apps, collab
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markuptitan&theme=dark&hide_border=true" width="400">
   <!--recent-commits-start-->
+
+## 🔄 Recent Commits (Updated every 6 hours)
+
+
+| Message | Repo | Date |
+|--------|------|------|
+| [Ignore persistance](https://github.com/markuptitan/markuptitan/commit/adf57de0a84a5c97ee69ab83d78c9ec4d3d4acac) | `markuptitan` | 4/18/2025, 1:48:38 PM |
+| [revert to personal token](https://github.com/markuptitan/markuptitan/commit/b41aca225fc623c39b674cf1666dce06527099dd) | `markuptitan` | 4/18/2025, 1:44:47 PM |
+| [Arrow functions basics](https://github.com/markuptitan/javascript-flows/commit/0b201ca00aa8b8f4c07b1c01eb8026b3d32b39d5) | `javascript-flows` | 4/16/2025, 2:18:07 PM |
+| [Revamp UI](https://github.com/markuptitan/word-unscrambler/commit/bad404041492abf6ae4323d6258adbb2f88e9e1a) | `word-unscrambler` | 4/15/2025, 7:16:11 AM |
+| [Enhance layout](https://github.com/markuptitan/word-unscrambler/commit/71a9469e59ddd5afb1027b68ae35ec30be941471) | `word-unscrambler` | 2/19/2025, 1:31:43 PM |
+
+
 <!--recent-commits-end-->
 </p>
 
