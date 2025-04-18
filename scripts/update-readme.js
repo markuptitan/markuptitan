@@ -19,7 +19,9 @@ async function getRecentRepos() {
   );
 
   const data = await res.json();
-  return data.map((repo) => repo.full_name);
+  return data
+    .filter((repo) => repo.name !== "markuptitan")
+    .map((repo) => repo.full_name);
 }
 
 async function fetchCommits(repo) {
@@ -66,7 +68,11 @@ ${allCommits
   const section = `
 ## 🔄 Recent Commits (Updated every 6 hours)
 
+<div align="center">
+
 ${table}
+
+</div>
 `;
   const __filename = fileURLToPath(import.meta.url);
   const __dirname = dirname(__filename);
