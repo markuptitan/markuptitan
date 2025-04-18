@@ -3,14 +3,14 @@ const path = require("path");
 const fetch = require("node-fetch");
 
 const GITHUB_USER = "MarkupTitan";
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const PERSONAL_TOKEN = process.env.PERSONAL_TOKEN;
 
 async function getRecentRepos() {
   const res = await fetch(
     `https://api.github.com/users/${GITHUB_USER}/repos?sort=updated&per_page=3`,
     {
       headers: {
-        Authorization: `Bearer ${GITHUB_TOKEN}`,
+        Authorization: `Bearer ${PERSONAL_TOKEN}`,
         Accept: "application/vnd.github.v3+json",
       },
     }
@@ -25,7 +25,7 @@ async function fetchCommits(repo) {
     `https://api.github.com/repos/${repo}/commits?per_page=2`,
     {
       headers: {
-        Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+        Authorization: `Bearer ${process.env.PERSONAL_TOKEN}`,
         Accept: "application/vnd.github.v3+json",
       },
     }
