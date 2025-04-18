@@ -24,13 +24,13 @@ jobs:
       - name: Run update script
         run: node scripts/update-readme.js
         env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         run: |
           git config user.name "MarkupTitan Bot"
           git config user.email "markuptitan@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "🔄 update recent commits" || echo "No changes to commit"
           git push
