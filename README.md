@@ -20,9 +20,9 @@ To become a high-impact **Full Stack Developer**, building scalable apps, collab
 
 ## 🔭 Currently Exploring
 
-- **Node.js** + **TypeScript** for robust backend systems  
-- **Next.js** + **Tailwind CSS** for full-stack projects  
-- **Docker** for containerized deployments  
+- **Node.js** + **TypeScript** for robust backend systems
+- **Next.js** + **Tailwind CSS** for full-stack projects
+- **Docker** for containerized deployments
 - **Data structures** & **localStorage** for smart, persistent UI
 
 ---
@@ -60,6 +60,8 @@ To become a high-impact **Full Stack Developer**, building scalable apps, collab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuptitan&layout=compact&theme=dark&hide_border=true" width="400">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markuptitan&theme=dark&hide_border=true" width="400">
+  <!--recent-commits-start-->
+<!--recent-commits-end-->
 </p>
 
 ---
@@ -76,8 +78,8 @@ To become a high-impact **Full Stack Developer**, building scalable apps, collab
 
 ## ⚡ Fun Facts
 
-- 🏀 I reset my brain through basketball  
-- 🔍 I tinker with code to solve everyday problems  
+- 🏀 I reset my brain through basketball
+- 🔍 I tinker with code to solve everyday problems
 - 💬 The name "MarkupTitan" comes from my love for HTML
 
 ---
