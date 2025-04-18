@@ -25,7 +25,7 @@ async function fetchCommits(repo) {
     `https://api.github.com/repos/${repo}/commits?per_page=2`,
     {
       headers: {
-        Authorization: `Bearer ${{ PERSONAL_TOKEN }}`,
+        Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
         Accept: "application/vnd.github.v3+json",
       },
     }
