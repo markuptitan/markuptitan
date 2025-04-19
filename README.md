@@ -69,7 +69,8 @@ To become a high-impact **Full Stack Developer**, building scalable apps, collab
 
 | Message | Repo | Date |
 |--------|------|------|
-| [1. Fix routing and add Tailwind](https://github.com/markuptitan/react-portfolio/commit/8b191bbd7ec63a615f55dc7e09dfc5a0b38988f6) | `react-portfolio` | 4/18/2025, 10:27:41 PM |
+| [Hero section complete](https://github.com/markuptitan/react-portfolio/commit/debd8e06f5cb1ccc4be2045ce80a6cf63ba31363) | `react-portfolio` | 4/19/2025, 3:09:16 PM |
+| [Add tailwind config](https://github.com/markuptitan/react-portfolio/commit/ad6fd46665d667dd0bdcda4d9ac447317495039b) | `react-portfolio` | 4/19/2025, 2:27:19 PM |
 | [Arrow functions basics](https://github.com/markuptitan/javascript-flows/commit/0b201ca00aa8b8f4c07b1c01eb8026b3d32b39d5) | `javascript-flows` | 4/16/2025, 2:18:07 PM |
 
 
