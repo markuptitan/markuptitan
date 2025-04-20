@@ -69,9 +69,12 @@ To become a high-impact **Full Stack Developer**, building scalable apps, collab
 
 | Message | Repo | Date |
 |--------|------|------|
+| [Step 1: Basic projects section](https://github.com/markuptitan/react-portfolio/commit/4f5a6cd8a340510c27fdb8bc02ee13ee4cc0faa0) | `react-portfolio` | 4/20/2025, 9:49:04 AM |
 | [About section done; use framermotion](https://github.com/markuptitan/react-portfolio/commit/f1c74d924add7f50e58be5d9d301421605e95f20) | `react-portfolio` | 4/20/2025, 12:23:11 AM |
-| [Enlarge shadow](https://github.com/markuptitan/react-portfolio/commit/f56837e4d314901d95685a78808d3ee7d4da0122) | `react-portfolio` | 4/19/2025, 11:59:35 PM |
-| [Arrow functions basics](https://github.com/markuptitan/javascript-flows/commit/0b201ca00aa8b8f4c07b1c01eb8026b3d32b39d5) | `javascript-flows` | 4/16/2025, 2:18:07 PM |
+| [Merge branch 'dev'](https://github.com/markuptitan/nextjs-password-generator/commit/a53c59f44a39164267e2e5264438f67326fe2c15) | `nextjs-password-generator` | 4/14/2025, 11:42:13 PM |
+| [No budget for high end logos](https://github.com/markuptitan/nextjs-password-generator/commit/628023fb517cdcecc30c88a9a47128c94cfa8a0a) | `nextjs-password-generator` | 4/14/2025, 11:37:51 PM |
+| [Revamp UI](https://github.com/markuptitan/word-unscrambler/commit/bad404041492abf6ae4323d6258adbb2f88e9e1a) | `word-unscrambler` | 4/15/2025, 7:16:11 AM |
+| [Enhance layout](https://github.com/markuptitan/word-unscrambler/commit/71a9469e59ddd5afb1027b68ae35ec30be941471) | `word-unscrambler` | 2/19/2025, 1:31:43 PM |
 
 
 </div>
