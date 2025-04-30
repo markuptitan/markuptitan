@@ -1,4 +1,4 @@
-# Hi there, I'm Samson Siyabonga Lukhele 👋
+# Hi there, I'm Samson Siyabonga Lukhele 👋[![committers.top badge](https://user-badge.committers.top/south_africa/markuptitan.svg)](https://user-badge.committers.top/south_africa/markuptitan)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Next.js+and+Node.js+Fanatic;Always+Building+Cool+Stuff;Umuzi+Recruit" alt="Typing SVG" />
