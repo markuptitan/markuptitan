@@ -71,10 +71,9 @@ To craft digital solutions that solve real problems with elegance and efficiency
 
 <p align="center">
   <a href="https://github.com/markuptitan" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/markuptitan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:contact@markuptitan.dev" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bytedojo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto: siyabonga.lukhele@umuzi.org" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://samsonlukhele.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2347A3F3.svg?style=for-the-badge&logo=safari&logoColor=white"></a>
-  <a href="https://word-unscrambler.markuptitan.site" target="_blank"><img src="https://img.shields.io/badge/Word%20Unscrambler-%2300B0FF.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
