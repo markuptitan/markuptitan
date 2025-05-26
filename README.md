@@ -12,13 +12,13 @@ I'm a full-stack developer focused on building efficient, scalable web solutions
 
 ### What I've Built Lately:
 - 🧠 A [Word Unscrambler](https://word-unscrambler.markuptitan.site) built with **Next.js + TypeScript**
-- 🛠️ Various web applications emphasizing **performance optimization**, **component reusability**, and **maintainable code**
+- 🛠️ My work on various web applications consistently emphasizes **performance optimization**, **component reusability**, and **writing maintainable code**.
 
 ---
 
-## 🧭 Mission: Excellence
+## 💡 My Philosophy
 
-To craft digital solutions that solve real problems with elegance and efficiency, continuously refining my skills while delivering value through thoughtful architecture and clean code.
+I'm dedicated to crafting digital solutions that tackle real-world problems with elegance and efficiency. My approach is rooted in continuous learning and a passion for clean, maintainable code and thoughtful architecture. I'm always exploring new technologies to refine my skills and deliver impactful applications.
 
 ---
 
@@ -75,14 +75,6 @@ To craft digital solutions that solve real problems with elegance and efficiency
   <a href="mailto: siyabonga.lukhele@umuzi.org" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://samsonlukhele.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2347A3F3.svg?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
-
----
-
-## ⚡ About Me
-
-- 🔭 Always exploring new technologies and approaches to software development
-- 💡 Passionate about creating elegant solutions to complex problems
-- 📚 Continuous learner who values clean, maintainable code
 
 ---
 
