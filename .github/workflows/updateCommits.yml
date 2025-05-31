@@ -9,6 +9,9 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -25,16 +28,16 @@ jobs:
         run: node ./scripts/updateCommits.js
         env:
           GH_USERNAME: markuptitan
-          GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push if changed
+      - name: Commit and Push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/markuptitan/markuptitan.git
           git add README.md
-          if git commit -m "Auto-update commit badge"; then
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-update commit badge"
             git push
           else
-            echo "Nothing to commit. Skipping push."
+            echo "No changes to commit."
           fi
