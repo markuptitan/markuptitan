@@ -2,7 +2,7 @@ name: 🔁 Update README with Commit Count
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Every 12 hours
+    - cron: "0 */12 * * *" # Every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -16,13 +16,13 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Install dependencies
         run: npm install axios
 
       - name: Run commit count updater
-        run: node updateCommits.js
+        run: node ./scripts/updateCommits.js
         env:
           GH_USERNAME: markuptitan
           GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
