@@ -1,9 +1,9 @@
 <h1>
   Hey, I'm MarkupTitan 👋
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/markuptitan?label=Stars&style=flat-square&color=green" height="25"/>
+  <img src="https://img.shields.io/github/stars/markuptitan?label=STARS&style=flat-square&color=green" height="25"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/markuptitan?label=Followers&style=flat-square&color=red" height="25"/>
+  <img src="https://img.shields.io/github/followers/markuptitan?label=FOLLOWERS&style=flat-square&color=red" height="25"/>
 </h1>
 
 
