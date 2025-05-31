@@ -1,4 +1,11 @@
-# Hey, I'm MarkupTitan 👋  <span>&nbsp;&nbsp;&nbsp;</span>![Stars](https://img.shields.io/github/stars/markuptitan?label=Stars&style=flat-square) <span>&nbsp;&nbsp;&nbsp;</span>![Followers](https://img.shields.io/github/followers/markuptitan?label=Followers&style=flat-square&color=orange)
+<h1>
+  Hey, I'm MarkupTitan 👋
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/markuptitan?label=Stars&style=flat-square&color=green" height="25"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/markuptitan?label=Followers&style=flat-square&color=red" height="25"/>
+</h1>
+
 
 
 <p align="center">
