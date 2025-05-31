@@ -14,7 +14,7 @@ const excludeRepos = [
 
 async function getCommitCount() {
   const repos = await axios.get(
-  `https://api.github.com/user/repos?per_page=100&visibility=all`,
+  `https://api.github.com/users/${username}/repos?per_page=100`,
   { headers }
 );
 
