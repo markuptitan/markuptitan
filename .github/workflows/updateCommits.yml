@@ -28,6 +28,7 @@ jobs:
         run: node ./scripts/updateCommits.js
         env:
           GH_USERNAME: markuptitan
+          GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push if changed
