@@ -44,7 +44,7 @@ async function getCommitCount() {
 (async () => {
   const total = await getCommitCount();
 
-  const badge = `<img src="https://img.shields.io/badge/COMMITS-${total}-blue?style=flat-square&color=green" height="25"/>`;
+  const badge = `<img src="https://img.shields.io/badge/COMMITS-${total}-blue?style=flat-square&color=blue" height="25"/>`;
 
   const readme = fs.readFileSync("README.md", "utf8");
   const updated = readme.replace(
