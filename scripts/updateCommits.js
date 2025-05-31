@@ -5,14 +5,24 @@ const username = process.env.GH_USERNAME;
 const token = process.env.GH_TOKEN;
 const headers = { Authorization: `token ${token}` };
 
+const excludeRepos = [
+  "markuptitan",
+  "project-1",
+  "acn-syllabus",
+  "bbd-immersion-day-booking",
+];
+
 async function getCommitCount() {
   const repos = await axios.get(
     `https://api.github.com/users/${username}/repos?per_page=100`,
     { headers }
   );
+
   let totalCommits = 0;
 
   for (const repo of repos.data) {
+    if (excludeRepos.includes(repo.name.toLowerCase())) continue;
+
     const commits = await axios.get(
       `https://api.github.com/repos/${username}/${repo.name}/commits?per_page=1`,
       { headers }
