@@ -1,4 +1,5 @@
-# Hey, I'm MarkupTitan 👋 [![committers.top badge](https://user-badge.committers.top/south_africa/markuptitan.svg)](https://user-badge.committers.top/south_africa/markuptitan)
+# Hey, I'm MarkupTitan 👋  <span>&nbsp;&nbsp;&nbsp;</span>![Stars](https://img.shields.io/github/stars/markuptitan?label=Stars&style=flat-square) <span>&nbsp;&nbsp;&nbsp;</span>![Followers](https://img.shields.io/github/followers/markuptitan?label=Followers&style=flat-square&color=orange)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Next.js+Specialist;TypeScript+Enthusiast;Professional+Problem+Solver;Umuzi+Recruit" alt="Typing SVG" />
