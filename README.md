@@ -1,12 +1,10 @@
 <h1>
   Hey, I'm MarkupTitan 👋
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/markuptitan?label=STARS&style=flat-square&color=green" height="25"/>
+  <img src="https://img.shields.io/badge/COMMITS-0-blue?style=flat-square&color=blue" height="25"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/markuptitan?label=FOLLOWERS&style=flat-square&color=red" height="25"/>
+  <img src="https://img.shields.io/github/followers/markuptitan?label=FOLLOWERS&style=flat-square&color=green" height="25"/>
 </h1>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Next.js+Specialist;TypeScript+Enthusiast;Professional+Problem+Solver;Umuzi+Recruit" alt="Typing SVG" />
@@ -19,6 +17,7 @@
 I'm a full-stack developer focused on building efficient, scalable web solutions with clean architecture and thoughtful user experiences. I blend modern frontend frameworks with robust backend systems to create applications that are both powerful and intuitive.
 
 ### What I've Built Lately:
+
 - 🧠 A [Word Unscrambler](https://word-unscrambler.markuptitan.site) built with **Next.js + TypeScript**
 - 🛠️ My work on various web applications consistently emphasizes **performance optimization**, **component reusability**, and **writing maintainable code**.
 
@@ -42,6 +41,7 @@ I'm dedicated to crafting digital solutions that tackle real-world problems with
 ## 🧰 My Tech Stack
 
 ### 💻 Languages & Frameworks
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -53,6 +53,7 @@ I'm dedicated to crafting digital solutions that tackle real-world problems with
 </p>
 
 ### 🔧 Dev Tools & Infrastructure
+
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">

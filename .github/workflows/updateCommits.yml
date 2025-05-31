@@ -1,0 +1,40 @@
+name: 🔁 Update README with Commit Count
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Run commit count updater
+        run: node updateCommits.js
+        env:
+          GH_USERNAME: markuptitan
+          GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+
+      - name: Push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/markuptitan/markuptitan.git
+          git add README.md
+          if git commit -m "Auto-update commit badge"; then
+            git push
+          else
+            echo "Nothing to commit. Skipping push."
+          fi
