@@ -22,7 +22,7 @@ jobs:
         run: npm install axios
 
       - name: Run commit count updater
-        run: node ./scripts/updateCommits.js
+        run: node ./scripts/updateCommits.cjs
         env:
           GH_USERNAME: markuptitan
           GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
