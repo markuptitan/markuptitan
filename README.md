@@ -1,7 +1,7 @@
 <h1>
   Hey, I'm MarkupTitan 👋
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/COMMITS-430-blue?style=flat-square&color=blue" height="25"/>
+  <img src="https://img.shields.io/badge/COMMITS-433-blue?style=flat-square&color=blue" height="25"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/markuptitan?label=FOLLOWERS&style=flat-square&color=green" height="25"/>
 </h1>
